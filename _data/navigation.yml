@@ -1,14 +1,22 @@
 # main links
 main:
-  - title: "Category"
-    url: "/categories/"
-  - title: "Tags"
-    url: /tags/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: https://x1d1um.github.io/
+
+  - title: "About"
+    url: /about/
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "Categories1"
+    url: /categories/categories1/
+  - title: "Categories2"
+    url: /categories/categories2/
+
