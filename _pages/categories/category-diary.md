@@ -5,5 +5,5 @@ permalink: /categories/diary/
 author_profile: true
 taxonomy: diary
 sidebar:
-  nav: "diary"
+  nav: "categories"
 ---

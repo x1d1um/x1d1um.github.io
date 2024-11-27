@@ -5,5 +5,5 @@ permalink: /categories/linux/
 author_profile: true
 taxonomy: linux
 sidebar:
-  nav: "linux"
+  nav: "categories"
 ---
