@@ -17,6 +17,6 @@ main:
 categories:
   - title: "diary"
     url: /categories/diary/
-  - title: "linux"
-    url: /categories/linux/
+  - title: "study"
+    url: /categories/study/
 
